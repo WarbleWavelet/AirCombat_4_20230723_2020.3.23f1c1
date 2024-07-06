@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 937781691
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bebb202b821f446236bc6560229ea81f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Picture/Enemy/Enemy_Normal_5.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3729669024
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09f91c640bdce0fef1a2e3bc5217079b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Audio/BGM/Battle_BGM.ogg
+Dependencies: []

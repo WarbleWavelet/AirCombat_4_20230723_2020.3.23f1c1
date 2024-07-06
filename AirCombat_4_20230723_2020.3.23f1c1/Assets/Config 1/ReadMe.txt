@@ -1,0 +1,3 @@
+原本放在StreamingAssets
+但是使用了QF，会清空StreamingAssets
+所以放出来

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="QFramework.AudioKit">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAACgEAABAAAAAAAA2AAAAAQAAIgAAAIEEAQAA=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\AudioKit\Scripts\AudioKit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AudioKitConfig" Collapsed="true">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\AudioKit\Scripts\AudioKit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AudioSearchKeys" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAEAAAAAAAEAAgAAAAgAAAAAAAAAAAgAAACAAA=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\AudioKit\Scripts\AudioKit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.AbstractAudioLoaderPool" Collapsed="true">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\AudioKit\Scripts\AudioKit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QFramework.DefaultAudioLoaderPool" Collapsed="true">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\AudioKit\Scripts\AudioKit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.DefaultAudioLoader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAACAAAAAAAAAAAAAAAAEAAAAAAAIAAAAgA=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\AudioKit\Scripts\AudioKit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.AudioKitSettings" Collapsed="true">
+    <Position X="10.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABAAAgBAAAAAEAAAAAAAAAAQAAAAAAKABgAAgAAAQ=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\AudioKit\Scripts\AudioKitSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AudioManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQBAAgFAAAADCAAAAQAAgAAAAAAIQAACAAAAQQA=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\AudioKit\Scripts\AudioManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.AudioPlayer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCggQBAEQAkAAAAAQQgQABRQBBAJAACQYogoABiCAgA=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\AudioKit\Scripts\AudioPlayer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.Property&lt;T&gt;" Collapsed="true">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAIAAAAgAAAAAAAAAAAEAEACEAAEAgAQQAAAg=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\AudioKit\Scripts\QFramework.BindableProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.IntProperty" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\AudioKit\Scripts\QFramework.BindableProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.OnPropertyChangedEvent&lt;T&gt;" Collapsed="true">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\AudioKit\Scripts\QFramework.BindableProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.CustomProperty&lt;T&gt;" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgAAAAgAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\AudioKit\Scripts\QFramework.BindableProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="QFramework.IAudioLoaderPool" Collapsed="true">
+    <Position X="9" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\AudioKit\Scripts\AudioKit.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.IAudioLoader" Collapsed="true">
+    <Position X="4.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAACAAAAAAAAAAAAAAAAEAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\AudioKit\Scripts\AudioKit.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

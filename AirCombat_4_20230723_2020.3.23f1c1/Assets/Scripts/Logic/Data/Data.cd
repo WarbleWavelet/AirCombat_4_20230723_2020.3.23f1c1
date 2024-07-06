@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AllEnemyData" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAAAAAQAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\AllEnemyData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyData" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEAAAAAAAYBAAAgBAQIAAAAABgAAQCAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\AllEnemyData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllBulletData" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAQAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\BulletData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletData" Collapsed="true">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAABABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\BulletData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NormalBulletData" Collapsed="true">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\BulletData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BossBulletData" Collapsed="true">
+    <Position X="1.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\BulletData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Boss0BulletData" Collapsed="true">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\BulletData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Boss1BulletData" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\BulletData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletEvent" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAABAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\BulletData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletEventData" Collapsed="true">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\BulletData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChangeSpeedData" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\BulletData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChangeTrajectoryData" Collapsed="true">
+    <Position X="7.75" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\BulletData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyCreaterConfigData" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\EnemyCreaterConfigData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelData" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\EnemyCreaterConfigData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlaneCreaterData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAgAAUAAAAAAAAQAAAAAAQAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\EnemyCreaterConfigData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MissileCreaterData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAABEAAAAAAAAAAAAABAAAAAAEAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\EnemyCreaterConfigData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameDataMgr" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAQAAAEBAAEAAAAAQAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\GameDataMgr.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EnemyTrajectoryDataMgr" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAEAQAAAAAEABABAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\ITrajectoryData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StraightTrajectoryData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\ITrajectoryData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VTrajectoryData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\ITrajectoryData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EllipseData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAgAAAAAAAAgIABAAAAAAAAAAAIEAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\ITrajectoryData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RotateData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAIAIAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\ITrajectoryData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="ICreaterData" Collapsed="true">
+    <Position X="2.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\EnemyCreaterConfigData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ITrajectoryData" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Data\ITrajectoryData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

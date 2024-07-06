@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2901820861
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f2a5af1c258014c5a81d865a15e2c18
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 108e81956ff174055c6e15de9cf3d005
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ed35bffacab89748baabb932ec09852, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Prefab/Game/GameRoot.prefab
+Dependencies: []

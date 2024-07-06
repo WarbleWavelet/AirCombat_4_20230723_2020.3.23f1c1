@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1423693154
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9de40f86ac6346db8eceddd437db8400
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Audio/Item/Lost_Item.ogg
+- Assets/Resources/Audio/Player/Player_0.ogg
+- Assets/Resources/Audio/BGM/Boss_BGM.ogg
+- Assets/Resources/Audio/Effect/Effect_Missile_Warning.wav
+- Assets/Resources/Audio/Effect/Effcet_Great.ogg
+- Assets/Resources/Audio/Player/Player_1.ogg
+- Assets/Resources/Audio/Buttle/Power.ogg
+- Assets/Resources/Audio/UI/UI_Loading.ogg
+- Assets/Resources/Audio/Effect/Effect_Gameover.ogg
+- Assets/Resources/Audio/Buttle/Fire.ogg
+- Assets/Resources/Audio/Item/Get_Item.ogg
+- Assets/Resources/Audio/Item/Get_Gold.ogg
+- Assets/Resources/Audio/Effect/Effect_Boss_Warning.wav
+- Assets/Resources/Audio/Player/Player_2.ogg
+- Assets/Resources/Audio/Explode/Explode_Bullet.ogg
+- Assets/Resources/Audio/UI/UI_StartGame.ogg
+- Assets/Resources/Audio/Item/Get_Shield.ogg
+- Assets/Resources/Audio/Explode/Explode_Plane.ogg
+Dependencies: []

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="QFramework.Pool&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAQBAAAAAAAAABEAABAAAABAABAAAA=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\_CoreKit\PoolKit\Scripts\Pool\Pool.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QFramework.PoolableObject&lt;T&gt;">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgEAAAAAAAAAAAAAAEAAAAAAAAAAAAAABACAAA=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\_CoreKit\PoolKit\Scripts\Pool\PoolableObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="QFramework.IPoolType" Collapsed="true">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\_CoreKit\PoolKit\Scripts\Pool\IPoolType.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.IPoolable">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\_CoreKit\PoolKit\Scripts\Pool\IPoolable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.IPool&lt;T&gt;">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MyPlugins\QFramework\QFramework\Toolkits\_CoreKit\PoolKit\Scripts\Pool\IPool.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

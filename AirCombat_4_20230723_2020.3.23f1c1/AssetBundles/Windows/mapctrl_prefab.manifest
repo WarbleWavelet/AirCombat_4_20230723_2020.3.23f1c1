@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 806059050
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a31dec3cdd0aef0477ea6b7204ee5ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 23ee06701d866aa9efcfec6a698c0484
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e36fa743d3075924497567b692e8c445, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Prefab/Game/MapCtrl.prefab
+Dependencies: []

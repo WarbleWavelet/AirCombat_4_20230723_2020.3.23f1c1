@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EnemyBossBulluetModelBase" Collapsed="true">
+    <Position X="4.5" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CABFABCgAAAAAAAABAgAEAAGAACQIoAeAAGCBAAAoQA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Model\AllBulluetModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EnemyBoss0BulluetModel" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="2.25" />
+    <InheritanceLine Type="EnemyBossBulluetModelBase" FixedFromPoint="true">
+      <Path>
+        <Point X="6.75" Y="5.25" />
+        <Point X="7.125" Y="5.25" />
+        <Point X="7.125" Y="5.839" />
+        <Point X="7.5" Y="5.839" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAABAAAAAAAAAAQAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Model\AllBulluetModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyBoss1BulluetModel" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="2.25" />
+    <InheritanceLine Type="EnemyBossBulluetModelBase" FixedFromPoint="true">
+      <Path>
+        <Point X="6.75" Y="5.25" />
+        <Point X="7.125" Y="5.25" />
+        <Point X="7.125" Y="4.839" />
+        <Point X="7.5" Y="4.839" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>CAAAACAAAAAAAAAABAAAAAAAAAAQBIAAAAAAAAAAgAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Model\AllBulluetModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerBulletModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CAABABCgAAAAAAABAAgAAAAAAAAAIAAeAAEABAAAoAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Model\AllBulluetModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PowerBulletModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CAABABCAAAAAAAAAAAgAAAAAAAAAIAAeAAEABAAAoAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Model\AllBulluetModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EnemyNormalBulluetModel" Collapsed="true">
+    <Position X="4.5" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CAABABCABAAAAAAAAAgAAAAAAACAIAAeAAEiBAAAoAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Model\AllBulluetModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="IBullet" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAABAACAAAAAAAAAAAAAAAAAAAAAAAAIAAAABAAAoAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Model\AllBulluetModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IBulletModel" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAABAAAAAAAAAAAAgAAAAAAAAAAAAWAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Model\AllBulluetModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IEnemyBulletModel" Collapsed="true">
+    <Position X="1.75" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Model\AllBulluetModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IEnemyBossBulletModel" Collapsed="true">
+    <Position X="1.75" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Logic\Model\AllBulluetModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

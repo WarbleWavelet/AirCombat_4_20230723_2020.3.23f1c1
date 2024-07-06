@@ -1,0 +1,151 @@
+ManifestFileVersion: 0
+CRC: 1465626475
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: uimultipanel_prefab
+      Dependencies: {}
+    Info_1:
+      Name: textureexample1_png
+      Dependencies: {}
+    Info_2:
+      Name: enemy_normal_0_png
+      Dependencies: {}
+    Info_3:
+      Name: enemy_boss_0_png
+      Dependencies: {}
+    Info_4:
+      Name: assetobj 2_prefab
+      Dependencies: {}
+    Info_5:
+      Name: strengthenpanel_prefab
+      Dependencies: {}
+    Info_6:
+      Name: spriteatlas_spriteatlas
+      Dependencies: {}
+    Info_7:
+      Name: imageprefabc_prefab
+      Dependencies:
+        Dependency_0: c_png
+    Info_8:
+      Name: enemy_normal_3_png
+      Dependencies: {}
+    Info_9:
+      Name: a_png
+      Dependencies: {}
+    Info_10:
+      Name: enemy_elites_1_png
+      Dependencies: {}
+    Info_11:
+      Name: sceneres_unity
+      Dependencies: {}
+    Info_12:
+      Name: uistackpanel1_prefab
+      Dependencies: {}
+    Info_13:
+      Name: plane_prefab
+      Dependencies: {}
+    Info_14:
+      Name: loadingpanel_prefab
+      Dependencies: {}
+    Info_15:
+      Name: enemy_item_1_png
+      Dependencies: {}
+    Info_16:
+      Name: battle_bgm_ogg
+      Dependencies: {}
+    Info_17:
+      Name: assetobj 1_prefab
+      Dependencies: {}
+    Info_18:
+      Name: startgamepanel_prefab
+      Dependencies: {}
+    Info_19:
+      Name: ui_clickbutton_ogg
+      Dependencies: {}
+    Info_20:
+      Name: imageprefabb_prefab
+      Dependencies:
+        Dependency_0: b_png
+    Info_21:
+      Name: enemy_normal_2_png
+      Dependencies: {}
+    Info_22:
+      Name: enemy_elites_0_png
+      Dependencies: {}
+    Info_23:
+      Name: assetobj_prefab
+      Dependencies: {}
+    Info_24:
+      Name: levelselectable_prefab
+      Dependencies: {}
+    Info_25:
+      Name: enemy_normal_5_png
+      Dependencies: {}
+    Info_26:
+      Name: c_png
+      Dependencies: {}
+    Info_27:
+      Name: enemy_item_0_png
+      Dependencies: {}
+    Info_28:
+      Name: selectlevelpanel_prefab
+      Dependencies: {}
+    Info_29:
+      Name: gameroot_prefab
+      Dependencies: {}
+    Info_30:
+      Name: imageprefaba_prefab
+      Dependencies:
+        Dependency_0: a_png
+    Info_31:
+      Name: enemy_normal_1_png
+      Dependencies: {}
+    Info_32:
+      Name: uibasicpanel_prefab
+      Dependencies: {}
+    Info_33:
+      Name: enemy_boss_1_png
+      Dependencies: {}
+    Info_34:
+      Name: game_bgm_ogg
+      Dependencies: {}
+    Info_35:
+      Name: assetobj 3_prefab
+      Dependencies: {}
+    Info_36:
+      Name: bullet_prefab
+      Dependencies: {}
+    Info_37:
+      Name: uipanelwithimageprefab_prefab
+      Dependencies: {}
+    Info_38:
+      Name: enemy_normal_4_png
+      Dependencies: {}
+    Info_39:
+      Name: b_png
+      Dependencies: {}
+    Info_40:
+      Name: enemy_elites_2_png
+      Dependencies: {}
+    Info_41:
+      Name: uistackpanel2_prefab
+      Dependencies: {}
+    Info_42:
+      Name: squarea_prefab
+      Dependencies: {}
+    Info_43:
+      Name: audio
+      Dependencies: {}
+    Info_44:
+      Name: selectheropanel_prefab
+      Dependencies: {}
+    Info_45:
+      Name: gameui_prefab
+      Dependencies: {}
+    Info_46:
+      Name: gamepanel_prefab
+      Dependencies: {}
+    Info_47:
+      Name: mapctrl_prefab
+      Dependencies: {}
